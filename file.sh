@@ -1,2 +1,2 @@
-echo Hello $USER! 
+echo Hello $USER
 echo $RANDOM
